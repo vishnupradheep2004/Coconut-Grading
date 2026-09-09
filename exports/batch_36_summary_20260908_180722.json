@@ -1,0 +1,1088 @@
+{
+  "total_images": 36,
+  "total_coconuts": 53,
+  "total_value": 1892.0,
+  "avg_confidence": 0.795677859529301,
+  "results": [
+    {
+      "filename": "5_jpg.rf.50be873f9a8f7fa942b7de62d3232c3a.jpg",
+      "counts": {
+        "dry": 1,
+        "green": 0,
+        "tender": 0
+      },
+      "total": 1,
+      "avg_conf": 0.9179272055625916,
+      "grade": "Grade A (Mature Dry)",
+      "badge_color": "#2e7d32",
+      "total_value": 35.0,
+      "breakdown": {
+        "dry": {
+          "count": 1,
+          "rate": 35.0,
+          "subtotal": 35.0
+        },
+        "green": {
+          "count": 0,
+          "rate": 28.0,
+          "subtotal": 0.0
+        },
+        "tender": {
+          "count": 0,
+          "rate": 40.0,
+          "subtotal": 0.0
+        }
+      }
+    },
+    {
+      "filename": "6_jpg.rf.ae02ac081a2915e3957d00f91e3fa905.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 1,
+        "tender": 0
+      },
+      "total": 1,
+      "avg_conf": 0.833810567855835,
+      "grade": "Grade B (Fresh Green)",
+      "badge_color": "#1565c0",
+      "total_value": 28.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 1,
+          "rate": 28.0,
+          "subtotal": 28.0
+        },
+        "tender": {
+          "count": 0,
+          "rate": 40.0,
+          "subtotal": 0.0
+        }
+      }
+    },
+    {
+      "filename": "11_jpg.rf.4abe98a1e65a34a5611aec3a6deb1a1d.jpg",
+      "counts": {
+        "dry": 3,
+        "green": 0,
+        "tender": 0
+      },
+      "total": 3,
+      "avg_conf": 0.8394423325856527,
+      "grade": "Grade A (Mature Dry)",
+      "badge_color": "#2e7d32",
+      "total_value": 105.0,
+      "breakdown": {
+        "dry": {
+          "count": 3,
+          "rate": 35.0,
+          "subtotal": 105.0
+        },
+        "green": {
+          "count": 0,
+          "rate": 28.0,
+          "subtotal": 0.0
+        },
+        "tender": {
+          "count": 0,
+          "rate": 40.0,
+          "subtotal": 0.0
+        }
+      }
+    },
+    {
+      "filename": "19_jpg.rf.8dcc655b098737e254f846ecce7c6e7c.jpg",
+      "counts": {
+        "dry": 1,
+        "green": 1,
+        "tender": 0
+      },
+      "total": 2,
+      "avg_conf": 0.5705946683883667,
+      "grade": "Grade B Mixed (Green Dominant)",
+      "badge_color": "#1565c0",
+      "total_value": 63.0,
+      "breakdown": {
+        "dry": {
+          "count": 1,
+          "rate": 35.0,
+          "subtotal": 35.0
+        },
+        "green": {
+          "count": 1,
+          "rate": 28.0,
+          "subtotal": 28.0
+        },
+        "tender": {
+          "count": 0,
+          "rate": 40.0,
+          "subtotal": 0.0
+        }
+      }
+    },
+    {
+      "filename": "026_jpg.rf.7471e889893fd7f8393880e1264636fc.jpg",
+      "counts": {
+        "dry": 2,
+        "green": 0,
+        "tender": 0
+      },
+      "total": 2,
+      "avg_conf": 0.38365717232227325,
+      "grade": "Grade A (Mature Dry)",
+      "badge_color": "#2e7d32",
+      "total_value": 70.0,
+      "breakdown": {
+        "dry": {
+          "count": 2,
+          "rate": 35.0,
+          "subtotal": 70.0
+        },
+        "green": {
+          "count": 0,
+          "rate": 28.0,
+          "subtotal": 0.0
+        },
+        "tender": {
+          "count": 0,
+          "rate": 40.0,
+          "subtotal": 0.0
+        }
+      }
+    },
+    {
+      "filename": "030_jpg.rf.bf8b9b31dcadda699117ea362bf6fb90.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 1,
+        "tender": 0
+      },
+      "total": 1,
+      "avg_conf": 0.9215494990348816,
+      "grade": "Grade B (Fresh Green)",
+      "badge_color": "#1565c0",
+      "total_value": 28.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 1,
+          "rate": 28.0,
+          "subtotal": 28.0
+        },
+        "tender": {
+          "count": 0,
+          "rate": 40.0,
+          "subtotal": 0.0
+        }
+      }
+    },
+    {
+      "filename": "37_jpg.rf.b92f665dd9512191e24147028a02a957.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 1,
+        "tender": 0
+      },
+      "total": 1,
+      "avg_conf": 0.9212461113929749,
+      "grade": "Grade B (Fresh Green)",
+      "badge_color": "#1565c0",
+      "total_value": 28.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 1,
+          "rate": 28.0,
+          "subtotal": 28.0
+        },
+        "tender": {
+          "count": 0,
+          "rate": 40.0,
+          "subtotal": 0.0
+        }
+      }
+    },
+    {
+      "filename": "51_jpg.rf.5268b43c8550382ff1a17187c5e610d7.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 2,
+        "tender": 1
+      },
+      "total": 3,
+      "avg_conf": 0.3155178626378377,
+      "grade": "Grade B Mixed (Green Dominant)",
+      "badge_color": "#1565c0",
+      "total_value": 96.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 2,
+          "rate": 28.0,
+          "subtotal": 56.0
+        },
+        "tender": {
+          "count": 1,
+          "rate": 40.0,
+          "subtotal": 40.0
+        }
+      }
+    },
+    {
+      "filename": "056_jpg.rf.fbf3c79d8c7938ab258e2114633d2f53.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 1,
+        "tender": 0
+      },
+      "total": 1,
+      "avg_conf": 0.8908065557479858,
+      "grade": "Grade B (Fresh Green)",
+      "badge_color": "#1565c0",
+      "total_value": 28.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 1,
+          "rate": 28.0,
+          "subtotal": 28.0
+        },
+        "tender": {
+          "count": 0,
+          "rate": 40.0,
+          "subtotal": 0.0
+        }
+      }
+    },
+    {
+      "filename": "73_jpg.rf.9ef871b55af54ae9bf4566252579514d.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 1,
+        "tender": 0
+      },
+      "total": 1,
+      "avg_conf": 0.8868116736412048,
+      "grade": "Grade B (Fresh Green)",
+      "badge_color": "#1565c0",
+      "total_value": 28.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 1,
+          "rate": 28.0,
+          "subtotal": 28.0
+        },
+        "tender": {
+          "count": 0,
+          "rate": 40.0,
+          "subtotal": 0.0
+        }
+      }
+    },
+    {
+      "filename": "84_jpg.rf.9d0b44c6b837a76fa6f413c5a4b1f1bb.jpg",
+      "counts": {
+        "dry": 1,
+        "green": 0,
+        "tender": 0
+      },
+      "total": 1,
+      "avg_conf": 0.8353785276412964,
+      "grade": "Grade A (Mature Dry)",
+      "badge_color": "#2e7d32",
+      "total_value": 35.0,
+      "breakdown": {
+        "dry": {
+          "count": 1,
+          "rate": 35.0,
+          "subtotal": 35.0
+        },
+        "green": {
+          "count": 0,
+          "rate": 28.0,
+          "subtotal": 0.0
+        },
+        "tender": {
+          "count": 0,
+          "rate": 40.0,
+          "subtotal": 0.0
+        }
+      }
+    },
+    {
+      "filename": "094_jpg.rf.a2b00b86e068c19634c00bef0c3f6b54.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 0,
+        "tender": 1
+      },
+      "total": 1,
+      "avg_conf": 0.8836965560913086,
+      "grade": "Grade C (Tender Water)",
+      "badge_color": "#e65100",
+      "total_value": 40.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 0,
+          "rate": 28.0,
+          "subtotal": 0.0
+        },
+        "tender": {
+          "count": 1,
+          "rate": 40.0,
+          "subtotal": 40.0
+        }
+      }
+    },
+    {
+      "filename": "105_jpg.rf.0a831c1f7910d2cebc2a79ec6677aed1.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 1,
+        "tender": 0
+      },
+      "total": 1,
+      "avg_conf": 0.8996185064315796,
+      "grade": "Grade B (Fresh Green)",
+      "badge_color": "#1565c0",
+      "total_value": 28.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 1,
+          "rate": 28.0,
+          "subtotal": 28.0
+        },
+        "tender": {
+          "count": 0,
+          "rate": 40.0,
+          "subtotal": 0.0
+        }
+      }
+    },
+    {
+      "filename": "131_jpg.rf.859d65c0024a682f5f482cf83ad78feb.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 1,
+        "tender": 0
+      },
+      "total": 1,
+      "avg_conf": 0.8820917010307312,
+      "grade": "Grade B (Fresh Green)",
+      "badge_color": "#1565c0",
+      "total_value": 28.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 1,
+          "rate": 28.0,
+          "subtotal": 28.0
+        },
+        "tender": {
+          "count": 0,
+          "rate": 40.0,
+          "subtotal": 0.0
+        }
+      }
+    },
+    {
+      "filename": "503_jpg.rf.9cb32c1b22f1a465a62cc09d8d76d701.jpg",
+      "counts": {
+        "dry": 1,
+        "green": 0,
+        "tender": 0
+      },
+      "total": 1,
+      "avg_conf": 0.8962807655334473,
+      "grade": "Grade A (Mature Dry)",
+      "badge_color": "#2e7d32",
+      "total_value": 35.0,
+      "breakdown": {
+        "dry": {
+          "count": 1,
+          "rate": 35.0,
+          "subtotal": 35.0
+        },
+        "green": {
+          "count": 0,
+          "rate": 28.0,
+          "subtotal": 0.0
+        },
+        "tender": {
+          "count": 0,
+          "rate": 40.0,
+          "subtotal": 0.0
+        }
+      }
+    },
+    {
+      "filename": "511_jpg.rf.8606bbca97de808f8eba0bc29e647739.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 1,
+        "tender": 0
+      },
+      "total": 1,
+      "avg_conf": 0.8606986403465271,
+      "grade": "Grade B (Fresh Green)",
+      "badge_color": "#1565c0",
+      "total_value": 28.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 1,
+          "rate": 28.0,
+          "subtotal": 28.0
+        },
+        "tender": {
+          "count": 0,
+          "rate": 40.0,
+          "subtotal": 0.0
+        }
+      }
+    },
+    {
+      "filename": "512_jpg.rf.aae4cdc418689324dcad198efe12ed9d.jpg",
+      "counts": {
+        "dry": 2,
+        "green": 0,
+        "tender": 0
+      },
+      "total": 2,
+      "avg_conf": 0.9014184176921844,
+      "grade": "Grade A (Mature Dry)",
+      "badge_color": "#2e7d32",
+      "total_value": 70.0,
+      "breakdown": {
+        "dry": {
+          "count": 2,
+          "rate": 35.0,
+          "subtotal": 70.0
+        },
+        "green": {
+          "count": 0,
+          "rate": 28.0,
+          "subtotal": 0.0
+        },
+        "tender": {
+          "count": 0,
+          "rate": 40.0,
+          "subtotal": 0.0
+        }
+      }
+    },
+    {
+      "filename": "515_jpg.rf.62507b976429c29519f16e5eaf3197f9.jpg",
+      "counts": {
+        "dry": 1,
+        "green": 1,
+        "tender": 0
+      },
+      "total": 2,
+      "avg_conf": 0.5813297927379608,
+      "grade": "Grade B Mixed (Green Dominant)",
+      "badge_color": "#1565c0",
+      "total_value": 63.0,
+      "breakdown": {
+        "dry": {
+          "count": 1,
+          "rate": 35.0,
+          "subtotal": 35.0
+        },
+        "green": {
+          "count": 1,
+          "rate": 28.0,
+          "subtotal": 28.0
+        },
+        "tender": {
+          "count": 0,
+          "rate": 40.0,
+          "subtotal": 0.0
+        }
+      }
+    },
+    {
+      "filename": "534_jpg.rf.3662e186d5a4c86278f2554c5fe5d0f8.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 1,
+        "tender": 0
+      },
+      "total": 1,
+      "avg_conf": 0.8252273201942444,
+      "grade": "Grade B (Fresh Green)",
+      "badge_color": "#1565c0",
+      "total_value": 28.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 1,
+          "rate": 28.0,
+          "subtotal": 28.0
+        },
+        "tender": {
+          "count": 0,
+          "rate": 40.0,
+          "subtotal": 0.0
+        }
+      }
+    },
+    {
+      "filename": "537_jpg.rf.c36458cd08875b3d897b5dd675cb76e1.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 1,
+        "tender": 0
+      },
+      "total": 1,
+      "avg_conf": 0.8544629812240601,
+      "grade": "Grade B (Fresh Green)",
+      "badge_color": "#1565c0",
+      "total_value": 28.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 1,
+          "rate": 28.0,
+          "subtotal": 28.0
+        },
+        "tender": {
+          "count": 0,
+          "rate": 40.0,
+          "subtotal": 0.0
+        }
+      }
+    },
+    {
+      "filename": "538_jpg.rf.59af5a9252c738c2f048c8aef95340bc.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 0,
+        "tender": 1
+      },
+      "total": 1,
+      "avg_conf": 0.8847419023513794,
+      "grade": "Grade C (Tender Water)",
+      "badge_color": "#e65100",
+      "total_value": 40.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 0,
+          "rate": 28.0,
+          "subtotal": 0.0
+        },
+        "tender": {
+          "count": 1,
+          "rate": 40.0,
+          "subtotal": 40.0
+        }
+      }
+    },
+    {
+      "filename": "606_jpg.rf.bcb87978f168cb419778be0dede5aac7.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 0,
+        "tender": 1
+      },
+      "total": 1,
+      "avg_conf": 0.7918678522109985,
+      "grade": "Grade C (Tender Water)",
+      "badge_color": "#e65100",
+      "total_value": 40.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 0,
+          "rate": 28.0,
+          "subtotal": 0.0
+        },
+        "tender": {
+          "count": 1,
+          "rate": 40.0,
+          "subtotal": 40.0
+        }
+      }
+    },
+    {
+      "filename": "613_jpg.rf.dbf55b4e2bd013c6413c709ce72a9419.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 0,
+        "tender": 2
+      },
+      "total": 2,
+      "avg_conf": 0.6393292099237442,
+      "grade": "Grade C (Tender Water)",
+      "badge_color": "#e65100",
+      "total_value": 80.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 0,
+          "rate": 28.0,
+          "subtotal": 0.0
+        },
+        "tender": {
+          "count": 2,
+          "rate": 40.0,
+          "subtotal": 80.0
+        }
+      }
+    },
+    {
+      "filename": "652_jpg.rf.7dcf7303af7c3047721e9617facee580.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 0,
+        "tender": 1
+      },
+      "total": 1,
+      "avg_conf": 0.8704597353935242,
+      "grade": "Grade C (Tender Water)",
+      "badge_color": "#e65100",
+      "total_value": 40.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 0,
+          "rate": 28.0,
+          "subtotal": 0.0
+        },
+        "tender": {
+          "count": 1,
+          "rate": 40.0,
+          "subtotal": 40.0
+        }
+      }
+    },
+    {
+      "filename": "663_jpg.rf.906dde766b02aca3266f265de29b75fb.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 0,
+        "tender": 1
+      },
+      "total": 1,
+      "avg_conf": 0.9076544642448425,
+      "grade": "Grade C (Tender Water)",
+      "badge_color": "#e65100",
+      "total_value": 40.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 0,
+          "rate": 28.0,
+          "subtotal": 0.0
+        },
+        "tender": {
+          "count": 1,
+          "rate": 40.0,
+          "subtotal": 40.0
+        }
+      }
+    },
+    {
+      "filename": "696_jpg.rf.11bd336d1f86f5ba71ae27887a414e04.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 0,
+        "tender": 1
+      },
+      "total": 1,
+      "avg_conf": 0.8563157916069031,
+      "grade": "Grade C (Tender Water)",
+      "badge_color": "#e65100",
+      "total_value": 40.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 0,
+          "rate": 28.0,
+          "subtotal": 0.0
+        },
+        "tender": {
+          "count": 1,
+          "rate": 40.0,
+          "subtotal": 40.0
+        }
+      }
+    },
+    {
+      "filename": "713_jpg.rf.5b815bd6bdf3b29074453947269bb20f.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 0,
+        "tender": 1
+      },
+      "total": 1,
+      "avg_conf": 0.8568193912506104,
+      "grade": "Grade C (Tender Water)",
+      "badge_color": "#e65100",
+      "total_value": 40.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 0,
+          "rate": 28.0,
+          "subtotal": 0.0
+        },
+        "tender": {
+          "count": 1,
+          "rate": 40.0,
+          "subtotal": 40.0
+        }
+      }
+    },
+    {
+      "filename": "719_jpg.rf.8f001b3faf658293c2d19111a385f3f8.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 0,
+        "tender": 2
+      },
+      "total": 2,
+      "avg_conf": 0.7117803990840912,
+      "grade": "Grade C (Tender Water)",
+      "badge_color": "#e65100",
+      "total_value": 80.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 0,
+          "rate": 28.0,
+          "subtotal": 0.0
+        },
+        "tender": {
+          "count": 2,
+          "rate": 40.0,
+          "subtotal": 80.0
+        }
+      }
+    },
+    {
+      "filename": "720_jpg.rf.1c6c5e5c34865846dfc4dba006a93043.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 0,
+        "tender": 1
+      },
+      "total": 1,
+      "avg_conf": 0.8890116214752197,
+      "grade": "Grade C (Tender Water)",
+      "badge_color": "#e65100",
+      "total_value": 40.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 0,
+          "rate": 28.0,
+          "subtotal": 0.0
+        },
+        "tender": {
+          "count": 1,
+          "rate": 40.0,
+          "subtotal": 40.0
+        }
+      }
+    },
+    {
+      "filename": "721_jpg.rf.4d0734c31e6de0559b311e9f3482334f.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 0,
+        "tender": 5
+      },
+      "total": 5,
+      "avg_conf": 0.7984266400337219,
+      "grade": "Grade C (Tender Water)",
+      "badge_color": "#e65100",
+      "total_value": 200.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 0,
+          "rate": 28.0,
+          "subtotal": 0.0
+        },
+        "tender": {
+          "count": 5,
+          "rate": 40.0,
+          "subtotal": 200.0
+        }
+      }
+    },
+    {
+      "filename": "727_jpg.rf.be0b1d765a5e32bde439e21cbed69f70.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 0,
+        "tender": 2
+      },
+      "total": 2,
+      "avg_conf": 0.5789063274860382,
+      "grade": "Grade C (Tender Water)",
+      "badge_color": "#e65100",
+      "total_value": 80.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 0,
+          "rate": 28.0,
+          "subtotal": 0.0
+        },
+        "tender": {
+          "count": 2,
+          "rate": 40.0,
+          "subtotal": 80.0
+        }
+      }
+    },
+    {
+      "filename": "729_jpg.rf.2dbd1c53108b0e81997f4587823837c3.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 0,
+        "tender": 1
+      },
+      "total": 1,
+      "avg_conf": 0.8951103687286377,
+      "grade": "Grade C (Tender Water)",
+      "badge_color": "#e65100",
+      "total_value": 40.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 0,
+          "rate": 28.0,
+          "subtotal": 0.0
+        },
+        "tender": {
+          "count": 1,
+          "rate": 40.0,
+          "subtotal": 40.0
+        }
+      }
+    },
+    {
+      "filename": "731_jpg.rf.1cf0551decaa94b3946c94647b08bcf9.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 0,
+        "tender": 1
+      },
+      "total": 1,
+      "avg_conf": 0.7153432965278625,
+      "grade": "Grade C (Tender Water)",
+      "badge_color": "#e65100",
+      "total_value": 40.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 0,
+          "rate": 28.0,
+          "subtotal": 0.0
+        },
+        "tender": {
+          "count": 1,
+          "rate": 40.0,
+          "subtotal": 40.0
+        }
+      }
+    },
+    {
+      "filename": "740_jpg.rf.900ea7973052a24fb9ebd0313f240526.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 0,
+        "tender": 2
+      },
+      "total": 2,
+      "avg_conf": 0.6483756601810455,
+      "grade": "Grade C (Tender Water)",
+      "badge_color": "#e65100",
+      "total_value": 80.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 0,
+          "rate": 28.0,
+          "subtotal": 0.0
+        },
+        "tender": {
+          "count": 2,
+          "rate": 40.0,
+          "subtotal": 80.0
+        }
+      }
+    },
+    {
+      "filename": "744_jpg.rf.b082de700a03d7d48a14cff5374d3481.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 0,
+        "tender": 2
+      },
+      "total": 2,
+      "avg_conf": 0.8341539800167084,
+      "grade": "Grade C (Tender Water)",
+      "badge_color": "#e65100",
+      "total_value": 80.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 0,
+          "rate": 28.0,
+          "subtotal": 0.0
+        },
+        "tender": {
+          "count": 2,
+          "rate": 40.0,
+          "subtotal": 80.0
+        }
+      }
+    },
+    {
+      "filename": "752_jpg.rf.c8e8b9db474c4336c3c1e7b9c93e5688.jpg",
+      "counts": {
+        "dry": 0,
+        "green": 0,
+        "tender": 1
+      },
+      "total": 1,
+      "avg_conf": 0.8645394444465637,
+      "grade": "Grade C (Tender Water)",
+      "badge_color": "#e65100",
+      "total_value": 40.0,
+      "breakdown": {
+        "dry": {
+          "count": 0,
+          "rate": 35.0,
+          "subtotal": 0.0
+        },
+        "green": {
+          "count": 0,
+          "rate": 28.0,
+          "subtotal": 0.0
+        },
+        "tender": {
+          "count": 1,
+          "rate": 40.0,
+          "subtotal": 40.0
+        }
+      }
+    }
+  ]
+}
